@@ -31,6 +31,8 @@ For example, the following file (K4.txt) represents the complete graph on four v
 1 3  
 2 3  
 
+A larger example of a graph file (used in our experiments) is "artist.txt" and "artist-SC.txt" (its sparse certificate for 4-edge-connectivity).
+
 Every 3-cut or 4-component program P is called as ./P <input_graph> <output_file>.
 
 For the get3cuts* programs, the output_file contains the 3-edge cuts of the (3-edge-connected) input graph, and has the following format.
