@@ -1,4 +1,4 @@
-This repository is an accompaniment to ESA22 Track B 2455 submission.
+This repository is an accompaniment to ESA22 Track B paper 60, titled "Computing the 4-Edge-Connected Components of a Graph: An Experimental Study".
 
 It contains implementations of various linear-time algorithms for computing 3-edge-cuts in 3-edge-connected undirected graphs, and 4-edge-connected components in general undirected graphs.
 
