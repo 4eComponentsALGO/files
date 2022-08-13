@@ -6,7 +6,7 @@ The programs get3cutsGIK, get3cutsLinear, get3cutsNRSS and get3cutsNRSSsort, com
 
  * get3cutsGIK implements the algorithm of Georgiadis, Italiano, and Kosinas. (Full version at: https://arxiv.org/abs/2105.02910.)
 
- * get3cutsLinear implements our improved algorithm which runs in linear time in pointer-machines.
+ * get3cutsLinear implements our improved algorithm which runs in linear time in pointer-machines. (This algorithm is described in https://arxiv.org/abs/2108.08558.)
 
  * get3cutsNRSS and get3cutsNRSSsort implement two different variations of (an improvement of) the randomized algorithm of Nadara, Radecki, Smulewicz, and Sokołowski. (Full version at: https://arxiv.org/abs/2105.01699.) 
 
